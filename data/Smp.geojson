@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Smp",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "SMP NEGRI 2 BANJARNEGRA", "Status": "Negri", "ID_Sekolah": "2" }, "geometry": { "type": "Point", "coordinates": [ 109.723153023062395, -7.391307293545385 ] } },
+{ "type": "Feature", "properties": { "Name": "smp swasta", "Status": null, "ID_Sekolah": null }, "geometry": { "type": "Point", "coordinates": [ 109.528931461686, -7.412870023153223 ] } },
+{ "type": "Feature", "properties": { "Name": "smp taman siswa", "Status": "Swasta", "ID_Sekolah": "3" }, "geometry": { "type": "Point", "coordinates": [ 109.531765028023443, -7.415845538473995 ] } }
+]
+}
